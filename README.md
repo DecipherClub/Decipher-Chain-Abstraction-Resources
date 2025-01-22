@@ -1,4 +1,4 @@
-# Decipher Club: Best Resources for Chain Abstraction (ChA)
+# Decipher Resources - Chain Abstraction (ChA)
 
 This repository provides a curated collection of resources for understanding Chain Abstraction (ChA), ranging from definitions and overviews to deep dives and critical analyses. The resources are categorized for easy navigation, enabling you to learn at your own pace.
 
